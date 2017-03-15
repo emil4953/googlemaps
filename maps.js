@@ -33,7 +33,7 @@
          map.setCenter(marker.getPosition());
 
          var klon = document.querySelector("#infowindow_template").cloneNode(true);
-         klon.querySelector("#infowindow_template beskrivelse");
+         klon.querySelector("#infowindow_template img");
 
          console.log(klon);
 
