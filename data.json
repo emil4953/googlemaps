@@ -1,104 +1,82 @@
-{
-    "navn": "Gefionspringvandet",
-    "billede": "billeder/gefionspringvandet.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+[{
+        "navn": "Gefionspringvandet",
+        "billede": "billeder/gefionspringvandet.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Kastellet",
-    "billede": "billeder/kastellet.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Kastellet",
+        "billede": "billeder/kastellet.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Churchill Parken",
-    "billede": "billeder/winstonchurchill.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Churchill Parken",
+        "billede": "billeder/winstonchurchill.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Major Anders Lassen",
-    "billede": "billeder/anderslassen.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Major Anders Lassen",
+        "billede": "billeder/anderslassen.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
-{
-    "navn": "Jagerpilot Kaj Birksted",
-    "billede": "billeder/kajbirksted.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Jagerpilot Kaj Birksted",
+        "billede": "billeder/kajbirksted.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+
+	},
 
 
-{
-    "navn": "Holmen",
-    "billede": "billeder/holmen.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Holmen",
+        "billede": "billeder/holmen.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Amaliehaven",
-    "billede": "billeder/amaliehaven.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Amaliehaven",
+        "billede": "billeder/amaliehaven.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Amalienborg",
-    "billede": "billeder/amalienborg.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Amalienborg",
+        "billede": "billeder/amalienborg.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
-{
-    "navn": "Kong Christian d. 10",
-    "billede": "billeder/kongchristian.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Kong Christian d. 10",
+        "billede": "billeder/kongchristian.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Mindeankeret",
-    "billede": "billeder/mindeankeret.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Mindeankeret",
+        "billede": "billeder/mindeankeret.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Kongens Nytorv",
-    "billede": "billeder/kongensnytorv.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Kongens Nytorv",
+        "billede": "billeder/kongensnytorv.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	},
 
 
-{
-    "navn": "Kongens Have",
-    "billede": "billeder/kongenshave.jpg",
-    "beskrivelse": operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet 'Oprop'
-    man beskytter danskerne mod englænderne og beder folk om at forholde sig i ro.Målet
-    var Norge
-}
+    {
+        "navn": "Kongens Have",
+        "billede": "billeder/kongenshave.jpg",
+        "beskrivelse": "operation wesseeuldung(man skulle angribe fra vand, land og luft) tyskerne indtager kastellet"
+	}
+]

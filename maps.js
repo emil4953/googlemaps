@@ -1,3 +1,8 @@
+ $(document).ready(function () {
+     var jData = $.getJSON("data.json");
+     console.log(jData);
+ });
+
  var map;
 
  function initMap() {
@@ -8,6 +13,10 @@
          },
          zoom: 15
      });
+
+
+
+
 
 
      var marker = new google.maps.Marker({
@@ -22,6 +31,16 @@
      marker.addListener('click', function () {
          map.setZoom(16);
          map.setCenter(marker.getPosition());
+
+         var klon = document.querySelector("#infowindow_template").cloneNode(true);
+         klon.querySelector("#infowindow_template beskrivelse");
+
+         console.log(klon);
+
+
+         infowindow.setContent(klon);
+
+
          infowindow.open(map, marker);
      });
 
@@ -41,18 +60,12 @@
              lng: 12.594290
          },
          map: map,
-         title: 'Kastellet'
+         title: 'Kastellet',
      });
 
      marker2.addListener('click', function () {
          map.setZoom(16);
          map.setCenter(marker2.getPosition());
-
-         /*    var klon = document.querySelector("#template").content.cloneNode(true);
-             klon.querySelector("img").src = "andetbillede.jpg";
-
-             infowindow2.setContent( klon );
-           */
          infowindow2.open(map, marker2);
      });
 
