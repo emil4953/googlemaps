@@ -2,8 +2,8 @@
         "type": "info",
         "navn": "Gefionspringvandet",
         "position": {
-            "lat": 55.689443,
-            "lng": 12.597615
+            "lat": 55.689330,
+            "lng": 12.597639
         },
         "billede": "billeder/gefionspringvandet.jpg",
         "beskrivelse": " D. 4 april ankom den tyske major Glein til Kastrup, og tager ind til Rådhuspladsen, hvor han indlogerer sig på Palace Hotel. Dagen efter tager han på ”Sightseeing” og inspicerer havnen grundigt, og da han kommer ned på Kastellet bliver han vist rundt af en dansk sergent som åbent fortæller om området dets bevæbning og militære betydning. Derefter tager Glein tilbage til hotellet, pakker kufferten og tager tilbage til Berlin for en kort stund. For 5 dage senere vender han tilbage som ansvarlig for landsætningen af de første tropper som skulle sikre hele Langelinie, Kastellet og Amalienborg."
@@ -14,8 +14,8 @@
         "type": "info",
         "navn": "Kastellet",
         "position": {
-            "lat": 55.691586,
-            "lng": 12.594290
+            "lat": 55.691417,
+            "lng": 12.594623
         },
         "billede": "billeder/kastellet.jpg",
         "beskrivelse": "Den 9 april 1940 bliver operation Weserübung sat i værk, hvilket betyder, at tyskerne angriber fra landjorden, fra søsiden og fra luften. Kastellet bliver indtaget tidligt om morgenen, og der flyder med 'Oprop' fra tyskerne. Her forklarer man, at den danske befolkning skal forholde sig i ro, og at man fra tysk side forsøger at beskytte dem mod England. Dog var målet for den tyske besættelse nabolandet Norge."
@@ -26,8 +26,8 @@
         "type": "info",
         "navn": "Churchill Parken",
         "position": {
-            "lat": 55.688348,
-            "lng": 12.596239
+            "lat": 55.688417,
+            "lng": 12.596182
         },
         "billede": "billeder/winstonchurchill.jpg",
         "beskrivelse": "Sir Winston Leonard Spencer Churchill (1874 - 1965) var britisk premierminister under 2. verdenskrig. Han bliver betegnet som en helt, da han viste modstand mod tyskerne. Den generelle holdning på dette tidspunkt var, at man skulle dæmpe gemytterne. Samme periode blev samarbejdspolitikken indført. Den gik ud på, at hvis Danmark gjorde, hvad Tyskland bad det om, kunne man beholde sin regering. Danmark indvilligede i dette, også på grund af, at man troede man kunne beskytte det jødiske mindretal. Men ikke alle var begejstrede for dette nye samarbejde. En af dem der går imod den, er en und gymnasieelev som laver Danmarks ti bud, der opfordrer folk til at gå imod Tyskland."
@@ -74,8 +74,8 @@
         "type": "info",
         "navn": "Amaliehaven",
         "position": {
-            "lat": 55.683822,
-            "lng": 12.595420
+            "lat": 55.683512,
+            "lng": 12.595101
         },
         "billede": "billeder/amaliehaven.jpg",
         "beskrivelse": "Dengang boede der omtrent 700.000 indbyggere i København, og den største arbejdsplads var havnen. Men efter 9 april bliver alt vendt op og ned; folk bliver blandt andet beordret til at have mørklægninggardiner og der må ikke være lys på gaderne. Dette resulterede i mange ulykker, fordi folk hele tiden går og falder, da man ikke kan se noget. Man forsøgte at forbedre vilkårene ved at lave hvide kantsten samt cykler, så man bedre kunne se. Derudover kan man også blive mørkefører, som indebærer, at man følger folk omkring, så ikke de falder."
@@ -86,8 +86,8 @@
         "type": "info",
         "navn": "Amalienborg",
         "position": {
-            "lat": 55.684228,
-            "lng": 12.593064
+            "lat": 55.684011,
+            "lng": 12.593209
         },
         "billede": "billeder/amalienborg.jpg",
         "beskrivelse": "Om morgenen d. 9 april bliver der ringet til statsministeren. Tyskerne fortæller, at nu har de overtrådt grænsen. Der bliver kaldt til møde med regeringen på Amalienborg med kongefamilien. De mødes, og skal tage stilling til hvad de skal gøre. Om de skal gøre modstand eller ej. Alt imens de drøfter det, opstår der kamp midt ude på pladsen. Der kommer fremmede tyske soldater, som livgarden skal skyde ned. Mødet tager 25 minutter, og de ender med at overgive sig. Generalen til mødet er rystet. Han synes, at vi skal kæmpe. Han får til opgave at sige det til soldaterne ude på pladsen, men kan ikke få sig selv til det. Så kongens tjener må fortælle, hvad de har vedtaget. Under 2. verdenskrig - 16 april . kommer dronning Magrethe til verden. Hun får tilnavnet solskinsprinsessen, fordi hun er et lys i mørket. Hun fortæller hun kan huske den dag hun så livgarden første gang. Det var meget festligt og et af hendes første minder. I 1943 bryder samarbejdspolitikken sammen, og folk overvejde at flygte til andre lande, fordi man ikke følte sig sikker i Danmark. I 1944 vedtager man fra tysk side, at man vil arrestere politiet. Da man arresterer dem, har man glemt politimændende, som skulle erstatte livgarden på Amalienborg. Dette gør, at politiet havde god tid til, at forberede sig på at slå tilbage. De fleste politimænd døde på tragisk vis i koncentrationslejre senere."
@@ -133,8 +133,8 @@
         "type": "info",
         "navn": "Kongens Have",
         "position": {
-            "lat": 55.683687,
-            "lng": 12.580404
+            "lat": 55.685159,
+            "lng": 12.579968
         },
         "billede": "billeder/kongenshave.jpg",
         "beskrivelse": "Kongens Have dannede ramme om en anden form for passiv modstand. Folk er på dette tidspunkt splittede, og en af datidens største popsangere giver en koncert i Odd Fellow palæet. Her bliver der blandt andet sunget om ranker, som betyder, at man laver planer mod nogen. Han begynder at græde, og hele salen rejser sig op. I mellemtiden synger man fædrelandssange i Ålborg. Det tager om sig, og i Kongens Have samler man 130.000 mennesker til sangstævne. Tyskerne kan ikke gøre noget ved det, men det sender et signal til dem om, at danskerne ikke vil have, at de er her. D. 4 maj 1945 overgiver tyskerne sig. Folk brænder mørklægningsgardinerne, og der er fest i gaderne. Danmark er endelig fri."
@@ -162,17 +162,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "I hvilket land døde Major Anders Lassen?",
-        "svar": "Italien",
-        "position": {
-            "lat": 55.688109,
-            "lng": 12.596895
-        }
-    },
-
-    {
-        "type": "quiz",
-        "spoergsmaal": "Kaj Birksted følte ikke, at han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land. Hvilket land var det?",
+        "spoergsmaal": "Hvilken mand sluttede sine sidste dage i Italien?",
         "svar": "England",
         "position": {
             "lat": 55.688109,
