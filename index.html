@@ -28,9 +28,14 @@
 
 
     <template id="infowindow_template">
-        <h1 class="data_navn">NAVN</h1>
+        <h1 class="data_navn"></h1>
         <img class="data_billede" src="billeder/gefionspringvandet.jpg" alt="billede">
-        <p class="data_beskrivelse">BESKRIVELSE</p>
+        <p class="data_beskrivelse"></p>
+    </template>
+
+    <template id="infowindow_quiztemplate">
+        <h2 class="data_spoergsmaal"></h2>
+        <h3 class="data_svar"></h3>
     </template>
     <div id="map">
 
@@ -56,7 +61,7 @@
     </div>
 
     <script src="http://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmZ8y_aTUrG9W3L3uLYcFKc1qw5-899OA&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmZ8y_aTUrG9W3L3uLYcFKc1qw5-899OA&libraries=geometry&callback=initMap" async defer></script>
     <script src="maps.js"></script>
 
 </body>
