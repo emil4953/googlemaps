@@ -1,5 +1,35 @@
 .data_billede {
-    width: 100% !important;
+    width: 70% !important;
+}
+#infowindow_template {
+    position: fixed;
+    width: auto;
+    background-image: 'baggrund.png';
+}
+.data_navn {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #f7931e;
+    color: white;
+    margin: 1px;
+    border-radius: 2px 2px 0 0;
+}
+.data_spoergsmaal {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #f7931e;
+    color: white;
+    margin: 1px;
+    border-radius: 2px 2px 0 0;
+}
+#infowindow_quiztemplate {
+    position: fixed;
+    width: auto;
+    background-image: 'baggrund.png';
 }
 
 /*footer*/

@@ -14,7 +14,9 @@
              lat: 55.687124,
              lng: 12.594929
          },
-         zoom: 18
+         zoom: 18,
+         scrollwheel: false,
+         scaleControl: false
      });
 
      locationMarker = new google.maps.Marker({
@@ -23,7 +25,8 @@
              lng: 12.597257
          },
          map: map,
-         animation: google.maps.Animation.DROP
+         animation: google.maps.Animation.DROP,
+         icon: "rigtigemarker-01.png"
              // TODO: Sæt et særligt ikon for denne marker
      });
 
@@ -32,9 +35,6 @@
      console.log("henter data ...");
 
  }
-
- // indlæs JSON-fil
- //$.getJSON("data.json", dataErHentet);
 
  function dataErHentet(jdata) {
      data = jdata;
@@ -45,9 +45,6 @@
      // bladr igennem JSON-data
      data.forEach(visData);
 
-     //  data.personer.forEach(visPerson);
-
-     // her sættes linjen med watchPosition ind
      id = navigator.geolocation.watchPosition(success, error, options);
  }
 
@@ -76,14 +73,9 @@
              if (dist < 70) {
                  console.log("Tæt på (" + dist + "m) " + punkt.navn);
 
-                 //        if (markerElement != null) {
                  marker.setVisible(true);
                  marker.setClickable(true);
-                 //      } else {
-                 //         if (markerElement != null) {
-                 //             marker.setVisible(false);
-                 //             marker.setClickable(false);
-                 //         }
+
              } else {
                  marker.setVisible(false);
                  marker.setClickable(false);
@@ -129,7 +121,7 @@
      // - lav en event på markeren
      marker.addListener('click', function () {
 
-         map.setZoom(16);
+         map.setZoom(18);
          map.setCenter(marker.getPosition());
 
          if (punkt.type == "info") {
@@ -143,8 +135,10 @@
          } else if (punkt.type == "quiz") {
              var klon = document.querySelector("#infowindow_quiztemplate").content.cloneNode(true);
 
-             klon.querySelector("h2").textContent = punkt.spoergsmaal;
-             klon.querySelector("h3").textContent = punkt.svar;
+             klon.querySelector("h3").textContent = punkt.spoergsmaal;
+             klon.querySelector("p").textContent = punkt.svar1;
+             klon.querySelector("p").textContent = punkt.svar2;
+             klon.querySelector("p").textContent = punkt.svar3;
 
          }
 
@@ -155,30 +149,3 @@
          infowindow.open(map, marker);
      });
  }
-
- /*
- var icon = {
-
-     icon: {
-         url: 'data:billeder/gefionspringvandet.svg;charset=UTF-8,' + encodeURIComponent(svg)
-     }
-     path: "M-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0",
-     fillColor: '#FF0000',
-     fillOpacity: .6,
-     anchor: new google.maps.Point(0, 0),
-     strokeWeight: 0,
-     scale: 1
- }
-
- var marker = new google.maps.Marker({
-     position: event.latLng,
-     map: map,
-     draggable: false,
-     icon: icon
- });
- */
-
- // var currentPosition = new google.maps.LatLng({
- //     lat: 55.687124,
- //     lng: 12.594929
- // });
