@@ -60,7 +60,7 @@
             "lng": 12.599276
         },
         "billede": "billeder/holmen.jpg",
-        "beskrivelse": "Den daværende statsminister for Danmark, Erik Skavenius (1877 - 1962) spillede en central rolle i den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig. Han gik ind for, at Danmark måtte tænke med hovedet og ikke følelserne. I 1943 strammer situationen til, og de allierede får mere indpas. Krigslykken er ved at vende fra Tyskland, og 30.000 danskere melder sig ind i nacismen, som laver sabotage, og ødelægger danske ting. D. 29 august 1943 indtræffer Augustoprøret. Tyskland stiller flere krav til Danmark, og danskerne begynder at strejke. Den danske regering får nok, og ender samarbejdet med Tyskland. Regeringen går af og man får en parlamentstyre i Danmark - her gælder det blot om at overleve. På Holmen bliver man beordret til at gøre, som man hele tiden har gjort. De bliver bedt om at udlevere alle deres torpedoer til Tyskland. Tidligere har chef Vedel dog arrangeret, at der er bombeladninger på alle skibene, så man hurtigt kan sænke dem. Da Tyskland beder om torpedoerne, vælger man at sænke alle skibene og sender derved et signal til verden om, at Danmark endelig er på den rigtige side."
+        "beskrivelse": "Den daværende statsminister for Danmark, Erik Skavenius (1877 - 1962) spillede en central rolle i den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig. Han gik ind for, at Danmark måtte tænke med hovedet og ikke følelserne. I 1943 strammer situationen til, og de allierede får mere indpas. Krigslykken er ved at vende fra Tyskland, og 30.000 danskere melder sig ind i nacismen, som laver sabotage, og ødelægger danske ting. D. 29 august 1943 indtræffer Augustoprøret. Tyskland stiller flere krav til Danmark, og danskerne begynder at strejke. Den danske regering får nok, og ender samarbejdet med Tyskland. Regeringen går af og man får en parlamentstyre i Danmark - her gælder det blot om at overleve. På Holmen bliver man beordret til at gøre, som man hele tiden har gjort. De bliver bedt om at udlevere alle deres torpedoer til Tyskland. Tidligere har chef Vedel dog arrangeret, at der er bombeladninger på alle skibene, så man hurtigt kan sænke dem ved blot at sige kodeordet Gnu. Da Tyskland beder om torpedoerne, bliver kodeordet sagt, og man vælger at sænke alle skibene, og sender derved et signal til verden om, at Danmark endelig er på den rigtige side."
 	},
 
 
@@ -126,5 +126,104 @@
         },
         "billede": "billeder/kongenshave.jpg",
         "beskrivelse": "Kongens Have dannede ramme om en anden form for passiv modstand. Folk er på dette tidspunkt splittede, og en af datidens største popsangere giver en koncert i Odd Fellow palæet. Her bliver der blandt andet sunget om ranker, som betyder, at man laver planer mod nogen. Han begynder at græde, og hele salen rejser sig op. I mellemtiden synger man fædrelandssange i Ålborg. Det tager om sig, og i Kongens Have samler man 130.000 mennesker til sangstævne. Tyskerne kan ikke gøre noget ved det, men det sender et signal til dem om, at danskerne ikke vil have, at de er her. D. 4 maj 1945 overgiver tyskerne sig. Folk brænder mørklægningsgardinerne, og der er fest i gaderne. Danmark er endelig fri."
-	}
+	},
+
+    {
+        "spoergsmål": "Hvilken dato og år blev Danmark befriet?",
+        "svar": "4 maj 1945",
+        "position": {
+            "lat": 55.689562,
+            "lng": 12.597993
+        }
+    },
+
+    {
+        "spoergsmål": "Hvilken stilling havde Winston Churchill under 2. Verdenskrig?",
+        "svar": "Han var premiere minister I England",
+        "position": {
+            "lat": 55.688562,
+            "lng": 12.596710
+        }
+    },
+
+    {
+        "spoergsmål": "I hvilket land døde Major Anders Lassen?",
+        "svar": "Italien",
+        "position": {
+            "lat": 55.688109,
+            "lng": 12.596896
+        }
+    },
+
+    {
+        "spoergsmål": "Kaj Birksted følte ikke han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land, hvilket?",
+        "svar": "England",
+        "position": {
+            "lat": 55.688109,
+            "lng": 12.596896
+        }
+    },
+
+    {
+        "spoergsmål": "Danmark har lagt bombeladninger på alle deres skibe, så den dag når Tyskland vil have dem kan man sænke dem. Der er blevet bestemt et kodeord for når man skal bombe skibene, hvad er kodeordet?",
+        "svar": "Gnu",
+        "position": {
+            "lat": 55.687568,
+            "lng": 12.598906
+        }
+    },
+
+    {
+        "spoergsmål": "Hvilken dato bliver man beordrede til at have mørklægningsgardiner?",
+        "svar": "9 april",
+        "position": {
+            "lat": 55.683733,
+            "lng": 12.594185
+        }
+    },
+
+    {
+        "spoergsmål": "Tyskerne vil begynde at arrestere det danske politi, hvilket år begynder de?",
+        "svar": "1944",
+        "position": {
+            "lat": 55.684627,
+            "lng": 12.591023
+        }
+    },
+
+    {
+        "spoergsmål": "Kong Christian d. 10 fik et langt brev fra en hel bestem person da han havde fødselsdag, hvem var dette?",
+        "svar": "Hitler",
+        "position": {
+            "lat": 55.681696,
+            "lng": 12.588052
+        }
+    },
+
+    {
+        "spoergsmål": "Hvor mange sømænd siger man der omkom under 2. verdenskrig på havet?",
+        "svar": "1600",
+        "position": {
+            "lat": 55.681098,
+            "lng": 12.586149
+        }
+    },
+
+    {
+        "spoergsmål": "Kongens Nytorv, danner ramme om de tre sider der var i krigen. Modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark væger de bedste hoteller. Hvilket hotel er hovedkvarter?",
+        "svar": "D’angleterre",
+        "position": {
+            "lat": 55.681755,
+            "lng": 12.584278
+        }
+    },
+
+    {
+        "spoergsmål": "Der bliver holdt et stort arrangement i Kongens have, hvad bliver der lavet?",
+        "svar": "Der bliver holdt et stort sangstævne",
+        "position": {
+            "lat": 55.683436,
+            "lng": 12.580453
+        }
+    }
 ]

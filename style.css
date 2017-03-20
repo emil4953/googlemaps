@@ -1,1 +1,41 @@
+.data_billede {
+    width: 100% !important;
+}
 
+/*footer*/
+
+.footer {
+    margin-bottom: 60px;
+}
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.social {
+    -webkit-transform: scale(0.8);
+    /* Browser Variations: */
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+#social-fb {
+    color: #3B5998;
+}
+#social-in {
+    color: #4099FF;
+}
+#social-yt {
+    color: #d34836;
+}
+#social-ta {
+    color: #f39c12;
+}
+#social-ig {
+    background: -webkit-radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
