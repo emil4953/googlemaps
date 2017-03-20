@@ -5,7 +5,8 @@
             "lng": 12.597615
         },
         "billede": "billeder/gefionspringvandet.jpg",
-        "beskrivelse": " D. 4 april ankom den tyske major Glein til Kastrup, og tager ind til Rådhuspladsen, hvor han indlogerer sig på Palace Hotel. Dagen efter tager han på ”Sightseeing” og inspicerer havnen grundigt, og da han kommer ned på Kastellet bliver han vist rundt af en dansk sergent som åbent fortæller om området dets bevæbning og militære betydning. Derefter tager Glein tilbage til hotellet, pakker kufferten og tager tilbage til Berlin for en kort stund. For 5 dage senere vender han tilbage som ansvarlig for landsætningen af de første tropper som skulle sikre hele Langelinie, Kastellet og Amalienborg."
+        "beskrivelse": " D. 4 april ankom den tyske major Glein til Kastrup, og tager ind til Rådhuspladsen, hvor han indlogerer sig på Palace Hotel. Dagen efter tager han på ”Sightseeing” og inspicerer havnen grundigt, og da han kommer ned på Kastellet bliver han vist rundt af en dansk sergent som åbent fortæller om området dets bevæbning og militære betydning. Derefter tager Glein tilbage til hotellet, pakker kufferten og tager tilbage til Berlin for en kort stund. For 5 dage senere vender han tilbage som ansvarlig for landsætningen af de første tropper som skulle sikre hele Langelinie, Kastellet og Amalienborg.",
+        "markerClass": "gefion"
 	},
 
 
@@ -16,7 +17,8 @@
             "lng": 12.594290
         },
         "billede": "billeder/kastellet.jpg",
-        "beskrivelse": "Den 9 april 1940 bliver operation Weserübung sat i værk, hvilket betyder, at tyskerne angriber fra landjorden, fra søsiden og fra luften. Kastellet bliver indtaget tidligt om morgenen, og der flyder med 'Oprop' fra tyskerne. Her forklarer man, at den danske befolkning skal forholde sig i ro, og at man fra tysk side forsøger at beskytte dem mod England. Dog var målet for den tyske besættelse nabolandet Norge."
+        "beskrivelse": "Den 9 april 1940 bliver operation Weserübung sat i værk, hvilket betyder, at tyskerne angriber fra landjorden, fra søsiden og fra luften. Kastellet bliver indtaget tidligt om morgenen, og der flyder med 'Oprop' fra tyskerne. Her forklarer man, at den danske befolkning skal forholde sig i ro, og at man fra tysk side forsøger at beskytte dem mod England. Dog var målet for den tyske besættelse nabolandet Norge.",
+        "markerClass": "kastellet"
 	},
 
 
@@ -27,7 +29,8 @@
             "lng": 12.596239
         },
         "billede": "billeder/winstonchurchill.jpg",
-        "beskrivelse": "Sir Winston Leonard Spencer Churchill (1874 - 1965) var britisk premierminister under 2. verdenskrig. Han bliver betegnet som en helt, da han viste modstand mod tyskerne. Den generelle holdning på dette tidspunkt var, at man skulle dæmpe gemytterne. Samme periode blev samarbejdspolitikken indført. Den gik ud på, at hvis Danmark gjorde, hvad Tyskland bad det om, kunne man beholde sin regering. Danmark indvilligede i dette, også på grund af, at man troede man kunne beskytte det jødiske mindretal. Men ikke alle var begejstrede for dette nye samarbejde. En af dem der går imod den, er en und gymnasieelev som laver Danmarks ti bud, der opfordrer folk til at gå imod Tyskland."
+        "beskrivelse": "Sir Winston Leonard Spencer Churchill (1874 - 1965) var britisk premierminister under 2. verdenskrig. Han bliver betegnet som en helt, da han viste modstand mod tyskerne. Den generelle holdning på dette tidspunkt var, at man skulle dæmpe gemytterne. Samme periode blev samarbejdspolitikken indført. Den gik ud på, at hvis Danmark gjorde, hvad Tyskland bad det om, kunne man beholde sin regering. Danmark indvilligede i dette, også på grund af, at man troede man kunne beskytte det jødiske mindretal. Men ikke alle var begejstrede for dette nye samarbejde. En af dem der går imod den, er en und gymnasieelev som laver Danmarks ti bud, der opfordrer folk til at gå imod Tyskland.",
+        "markerClass": "churchill"
 	},
 
 
@@ -38,7 +41,8 @@
             "lng": 12.596582
         },
         "billede": "billeder/anderslassen.jpg",
-        "beskrivelse": "Major Anders Frederik Emil Victor Schau Lassen (1920 - 1945) var en dansk sømand. Han var på ombord på et skib i Cape Town med handelsflåden, da nyheden om Danmarks besættelse kommer. Han er dernæst ikke i tvivl; han vil til England, for at kæmpe mod tyskerne. Han melder sig hurtigt til tjeneste i England, men ved tilmeldingen er man skeptisk overfor ham, da danskerne samarbejder med Tyskland på daværende tidspunkt. For at overbevise dem, aflægger han troskab mod den danske konge. Han kæmper bravt og tappert, men dør på tragisk vis d. 9 april 1945 i Norditalien, hvor han ofrer sig for sin enhed. Han er den eneste udlænding under hele 2. verdenskrig til at modtage Viktoria korset, som er den højeste militære britiske orden, der kan blive tildelt en person fra de britiske styrker for tapperhed udvist i fjendens nærvær."
+        "beskrivelse": "Major Anders Frederik Emil Victor Schau Lassen (1920 - 1945) var en dansk sømand. Han var på ombord på et skib i Cape Town med handelsflåden, da nyheden om Danmarks besættelse kommer. Han er dernæst ikke i tvivl; han vil til England, for at kæmpe mod tyskerne. Han melder sig hurtigt til tjeneste i England, men ved tilmeldingen er man skeptisk overfor ham, da danskerne samarbejder med Tyskland på daværende tidspunkt. For at overbevise dem, aflægger han troskab mod den danske konge. Han kæmper bravt og tappert, men dør på tragisk vis d. 9 april 1945 i Norditalien, hvor han ofrer sig for sin enhed. Han er den eneste udlænding under hele 2. verdenskrig til at modtage Viktoria korset, som er den højeste militære britiske orden, der kan blive tildelt en person fra de britiske styrker for tapperhed udvist i fjendens nærvær.",
+        "markerClass": "anders"
 	},
 
     {
@@ -48,7 +52,8 @@
             "lng": 12.596541
         },
         "billede": "billeder/kajbirksted.jpg",
-        "beskrivelse": "Jagerpilot Kaj Birksted (1915 - 1996) var jagerpilot og uddannet i det danske flyvevåben, da man hører, at Danmark er blevet besat. Ligesom Anders Lassen, ville Kaj kæmpe for Danmark. En uge efter besættelsen tager Kaj med sin ven til Norge for at kæmpe i krigen. Modsat Danmark kæmpede Norge imod. Regeringen går i eksil og samler norsk flyvebase i Canada, hvor Kaj bliver sendt hen. Han bliver trænet i kampflyvning og stiger hurtigt i graderne. Han når at få over 500 timer i combat (læs: krig), og udviser gode lederevner. Han når at skyde 39 tyske fly ned, og mister kun 4 af sine egne. Kaj styrer mange af aktionerne til d-dag, og overlever krigen. Han rejser hjem til Danmark, men får ikke den opmærksomhed han har fortjent, derimod kun et par enkelte interviews. Folk lægger ikke mærke til ham. Han søger om en stilling i flyvevåbnet i Danmark, men får afslag, da han ikke havde de rigtige papirer i orden. Han bliver så skuffet, at han rejser til England i 1960 og sætter aldrig sine ben i Danmark igen."
+        "beskrivelse": "Jagerpilot Kaj Birksted (1915 - 1996) var jagerpilot og uddannet i det danske flyvevåben, da man hører, at Danmark er blevet besat. Ligesom Anders Lassen, ville Kaj kæmpe for Danmark. En uge efter besættelsen tager Kaj med sin ven til Norge for at kæmpe i krigen. Modsat Danmark kæmpede Norge imod. Regeringen går i eksil og samler norsk flyvebase i Canada, hvor Kaj bliver sendt hen. Han bliver trænet i kampflyvning og stiger hurtigt i graderne. Han når at få over 500 timer i combat (læs: krig), og udviser gode lederevner. Han når at skyde 39 tyske fly ned, og mister kun 4 af sine egne. Kaj styrer mange af aktionerne til d-dag, og overlever krigen. Han rejser hjem til Danmark, men får ikke den opmærksomhed han har fortjent, derimod kun et par enkelte interviews. Folk lægger ikke mærke til ham. Han søger om en stilling i flyvevåbnet i Danmark, men får afslag, da han ikke havde de rigtige papirer i orden. Han bliver så skuffet, at han rejser til England i 1960 og sætter aldrig sine ben i Danmark igen.",
+        "markerClass": "kaj"
 
 	},
 
@@ -60,7 +65,8 @@
             "lng": 12.599276
         },
         "billede": "billeder/holmen.jpg",
-        "beskrivelse": "Den daværende statsminister for Danmark, Erik Skavenius (1877 - 1962) spillede en central rolle i den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig. Han gik ind for, at Danmark måtte tænke med hovedet og ikke følelserne. I 1943 strammer situationen til, og de allierede får mere indpas. Krigslykken er ved at vende fra Tyskland, og 30.000 danskere melder sig ind i nacismen, som laver sabotage, og ødelægger danske ting. D. 29 august 1943 indtræffer Augustoprøret. Tyskland stiller flere krav til Danmark, og danskerne begynder at strejke. Den danske regering får nok, og ender samarbejdet med Tyskland. Regeringen går af og man får en parlamentstyre i Danmark - her gælder det blot om at overleve. På Holmen bliver man beordret til at gøre, som man hele tiden har gjort. De bliver bedt om at udlevere alle deres torpedoer til Tyskland. Tidligere har chef Vedel dog arrangeret, at der er bombeladninger på alle skibene, så man hurtigt kan sænke dem ved blot at sige kodeordet Gnu. Da Tyskland beder om torpedoerne, bliver kodeordet sagt, og man vælger at sænke alle skibene, og sender derved et signal til verden om, at Danmark endelig er på den rigtige side."
+        "beskrivelse": "Den daværende statsminister for Danmark, Erik Skavenius (1877 - 1962) spillede en central rolle i den danske regerings samarbejdspolitik med Tyskland under 2. Verdenskrig. Han gik ind for, at Danmark måtte tænke med hovedet og ikke følelserne. I 1943 strammer situationen til, og de allierede får mere indpas. Krigslykken er ved at vende fra Tyskland, og 30.000 danskere melder sig ind i nacismen, som laver sabotage, og ødelægger danske ting. D. 29 august 1943 indtræffer Augustoprøret. Tyskland stiller flere krav til Danmark, og danskerne begynder at strejke. Den danske regering får nok, og ender samarbejdet med Tyskland. Regeringen går af og man får en parlamentstyre i Danmark - her gælder det blot om at overleve. På Holmen bliver man beordret til at gøre, som man hele tiden har gjort. De bliver bedt om at udlevere alle deres torpedoer til Tyskland. Tidligere har chef Vedel dog arrangeret, at der er bombeladninger på alle skibene, så man hurtigt kan sænke dem ved blot at sige kodeordet Gnu. Da Tyskland beder om torpedoerne, bliver kodeordet sagt, og man vælger at sænke alle skibene, og sender derved et signal til verden om, at Danmark endelig er på den rigtige side.",
+        "markerClass": "holmen"
 	},
 
 
@@ -71,7 +77,8 @@
             "lng": 12.595420
         },
         "billede": "billeder/amaliehaven.jpg",
-        "beskrivelse": "Dengang boede der omtrent 700.000 indbyggere i København, og den største arbejdsplads var havnen. Men efter 9 april bliver alt vendt op og ned; folk bliver blandt andet beordret til at have mørklægninggardiner og der må ikke være lys på gaderne. Dette resulterede i mange ulykker, fordi folk hele tiden går og falder, da man ikke kan se noget. Man forsøgte at forbedre vilkårene ved at lave hvide kantsten samt cykler, så man bedre kunne se. Derudover kan man også blive mørkefører, som indebærer, at man følger folk omkring, så ikke de falder."
+        "beskrivelse": "Dengang boede der omtrent 700.000 indbyggere i København, og den største arbejdsplads var havnen. Men efter 9 april bliver alt vendt op og ned; folk bliver blandt andet beordret til at have mørklægninggardiner og der må ikke være lys på gaderne. Dette resulterede i mange ulykker, fordi folk hele tiden går og falder, da man ikke kan se noget. Man forsøgte at forbedre vilkårene ved at lave hvide kantsten samt cykler, så man bedre kunne se. Derudover kan man også blive mørkefører, som indebærer, at man følger folk omkring, så ikke de falder.",
+        "markerClass": "amaliehaven"
 	},
 
 
@@ -82,7 +89,8 @@
             "lng": 12.593064
         },
         "billede": "billeder/amalienborg.jpg",
-        "beskrivelse": "Om morgenen d. 9 april bliver der ringet til statsministeren. Tyskerne fortæller, at nu har de overtrådt grænsen. Der bliver kaldt til møde med regeringen på Amalienborg med kongefamilien. De mødes, og skal tage stilling til hvad de skal gøre. Om de skal gøre modstand eller ej. Alt imens de drøfter det, opstår der kamp midt ude på pladsen. Der kommer fremmede tyske soldater, som livgarden skal skyde ned. Mødet tager 25 minutter, og de ender med at overgive sig. Generalen til mødet er rystet. Han synes, at vi skal kæmpe. Han får til opgave at sige det til soldaterne ude på pladsen, men kan ikke få sig selv til det. Så kongens tjener må fortælle, hvad de har vedtaget. Under 2. verdenskrig - 16 april . kommer dronning Magrethe til verden. Hun får tilnavnet solskinsprinsessen, fordi hun er et lys i mørket. Hun fortæller hun kan huske den dag hun så livgarden første gang. Det var meget festligt og et af hendes første minder. I 1943 bryder samarbejdspolitikken sammen, og folk overvejde at flygte til andre lande, fordi man ikke følte sig sikker i Danmark. I 1944 vedtager man fra tysk side, at man vil arrestere politiet. Da man arresterer dem, har man glemt politimændende, som skulle erstatte livgarden på Amalienborg. Dette gør, at politiet havde god tid til, at forberede sig på at slå tilbage. De fleste politimænd døde på tragisk vis i koncentrationslejre senere."
+        "beskrivelse": "Om morgenen d. 9 april bliver der ringet til statsministeren. Tyskerne fortæller, at nu har de overtrådt grænsen. Der bliver kaldt til møde med regeringen på Amalienborg med kongefamilien. De mødes, og skal tage stilling til hvad de skal gøre. Om de skal gøre modstand eller ej. Alt imens de drøfter det, opstår der kamp midt ude på pladsen. Der kommer fremmede tyske soldater, som livgarden skal skyde ned. Mødet tager 25 minutter, og de ender med at overgive sig. Generalen til mødet er rystet. Han synes, at vi skal kæmpe. Han får til opgave at sige det til soldaterne ude på pladsen, men kan ikke få sig selv til det. Så kongens tjener må fortælle, hvad de har vedtaget. Under 2. verdenskrig - 16 april . kommer dronning Magrethe til verden. Hun får tilnavnet solskinsprinsessen, fordi hun er et lys i mørket. Hun fortæller hun kan huske den dag hun så livgarden første gang. Det var meget festligt og et af hendes første minder. I 1943 bryder samarbejdspolitikken sammen, og folk overvejde at flygte til andre lande, fordi man ikke følte sig sikker i Danmark. I 1944 vedtager man fra tysk side, at man vil arrestere politiet. Da man arresterer dem, har man glemt politimændende, som skulle erstatte livgarden på Amalienborg. Dette gør, at politiet havde god tid til, at forberede sig på at slå tilbage. De fleste politimænd døde på tragisk vis i koncentrationslejre senere.",
+        "markerClass": "amalienborg"
 	},
 
     {
@@ -92,7 +100,8 @@
             "lng": 12.588741
         },
         "billede": "billeder/kongchristian.jpg",
-        "beskrivelse": "Kong Christian d. 10 (1870 - 1947) sidder på Amalienborg, da man beslutter at samarbejde med Tyskland. Christian er ikke tilfreds, og yder derfor passiv modstand ved at ridde gennem gaderne, som han havde gjort hver dag. Det blev et samlingspunkt for det danske folk, da tyskerne ikke havde nogen indflydelse på dette. I 1942 bliver han 70 år, og folk er ude med dannebrog og fejre ham som aldrig før. Der er fest i gaderne. På hans 70-års fødselsdag sender Hitler en lang hilsen til ham, men til det svarer Christian meget kort 'danske'. Hitler blev rasende, og samarbejdspolitikken brød næsten sammen, og ender med, at Hitler sender flere tyske soldater til Danmark. Dette kaldes telegramkrisen. Kong Christian er berømt i hele verden, især blandt jøder, da han engang sad til et møde, hvor man overvejede, om danske jøder også skulle bære jødestjernen. Dertil svarede Christian, at hvis jøderne skal gå med den, så skal alle danskere også gøre det."
+        "beskrivelse": "Kong Christian d. 10 (1870 - 1947) sidder på Amalienborg, da man beslutter at samarbejde med Tyskland. Christian er ikke tilfreds, og yder derfor passiv modstand ved at ridde gennem gaderne, som han havde gjort hver dag. Det blev et samlingspunkt for det danske folk, da tyskerne ikke havde nogen indflydelse på dette. I 1942 bliver han 70 år, og folk er ude med dannebrog og fejre ham som aldrig før. Der er fest i gaderne. På hans 70-års fødselsdag sender Hitler en lang hilsen til ham, men til det svarer Christian meget kort 'danske'. Hitler blev rasende, og samarbejdspolitikken brød næsten sammen, og ender med, at Hitler sender flere tyske soldater til Danmark. Dette kaldes telegramkrisen. Kong Christian er berømt i hele verden, især blandt jøder, da han engang sad til et møde, hvor man overvejede, om danske jøder også skulle bære jødestjernen. Dertil svarede Christian, at hvis jøderne skal gå med den, så skal alle danskere også gøre det.",
+        "markerClass": "christian"
 	},
 
 
@@ -103,7 +112,8 @@
             "lng": 12.587530
         },
         "billede": "billeder/mindeankeret.jpg",
-        "beskrivelse": "Mindeankeret er til for at mindes den dag, man valgte ikke længere at samarbejde med Tyskland samt de 1600 danske sømænd, som omkom under 2. Verdenskrig. 2/3 af de danske handelsskibe var ude på havene, og da nyheden om besættelsen af Danmark kommer, bliver de bedt om at sejle til nærmeste havn, aflægge rapport og komme tilbage til Danmark. Men de fleste melder sig til de allieredes tjeneste for at hjælpe, hvilket var en kæmpe hjælp for de allierede. Man brugte de danske sømænd til forsyninger, og man siger at hver soldat stod for 6 tons forsyninger på daglig basis. Englænderne var næsten knækkede indtil de fandt ud af at se, hvordan der var tyske skibe i farvandet - her hjalp Danmark meget til inden man opdagede dette."
+        "beskrivelse": "Mindeankeret er til for at mindes den dag, man valgte ikke længere at samarbejde med Tyskland samt de 1600 danske sømænd, som omkom under 2. Verdenskrig. 2/3 af de danske handelsskibe var ude på havene, og da nyheden om besættelsen af Danmark kommer, bliver de bedt om at sejle til nærmeste havn, aflægge rapport og komme tilbage til Danmark. Men de fleste melder sig til de allieredes tjeneste for at hjælpe, hvilket var en kæmpe hjælp for de allierede. Man brugte de danske sømænd til forsyninger, og man siger at hver soldat stod for 6 tons forsyninger på daglig basis. Englænderne var næsten knækkede indtil de fandt ud af at se, hvordan der var tyske skibe i farvandet - her hjalp Danmark meget til inden man opdagede dette.",
+        "markerClass": "mindeankeret"
 	},
 
 
@@ -114,7 +124,8 @@
             "lng": 12.585590
         },
         "billede": "billeder/kongensnytorv.jpg",
-        "beskrivelse": "Kongens Nytorv danner ramme, om de tre sider der var i krigen;  modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark udvælger de de bedste hoteller, og heriblandt D'angleterre som hovedkvarter. For at lave bedre infrastuktur laver man flere gader ensrettet, så man hurtigt kan komme rundt og det har man beholdt den dag idag. Mens tyskerne bor på D'angleterre bliver en gammel vinstue ved siden af Magasin udsat for et  attentat af tyskerne. Der bliver smidt en bombe derind, men heldigvis er der ikke mange, som dør. Derefter bliver Schalburgkorpset oprettet, som er et korps bestående af danskere i tysk tjeneste under besættelsen. Modstandsbevægelsen bliver mere organiseret, idet deres ledere mødtes, og man valgte en ud, som skulle arrangere det næste møde. Samlingsstedet for et af disse møder blev Magasin - lige ved siden af D'angleterre, som er fyldt med tyske soldater -, hvor man ringede ind, for at bekræfte ens identitet og dernæst få kodeordet til det næste møde."
+        "beskrivelse": "Kongens Nytorv danner ramme, om de tre sider der var i krigen;  modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark udvælger de de bedste hoteller, og heriblandt D'angleterre som hovedkvarter. For at lave bedre infrastuktur laver man flere gader ensrettet, så man hurtigt kan komme rundt og det har man beholdt den dag idag. Mens tyskerne bor på D'angleterre bliver en gammel vinstue ved siden af Magasin udsat for et  attentat af tyskerne. Der bliver smidt en bombe derind, men heldigvis er der ikke mange, som dør. Derefter bliver Schalburgkorpset oprettet, som er et korps bestående af danskere i tysk tjeneste under besættelsen. Modstandsbevægelsen bliver mere organiseret, idet deres ledere mødtes, og man valgte en ud, som skulle arrangere det næste møde. Samlingsstedet for et af disse møder blev Magasin - lige ved siden af D'angleterre, som er fyldt med tyske soldater -, hvor man ringede ind, for at bekræfte ens identitet og dernæst få kodeordet til det næste møde.",
+        "markerClass": "kongens nytorv"
 	},
 
 
@@ -125,7 +136,8 @@
             "lng": 12.580404
         },
         "billede": "billeder/kongenshave.jpg",
-        "beskrivelse": "Kongens Have dannede ramme om en anden form for passiv modstand. Folk er på dette tidspunkt splittede, og en af datidens største popsangere giver en koncert i Odd Fellow palæet. Her bliver der blandt andet sunget om ranker, som betyder, at man laver planer mod nogen. Han begynder at græde, og hele salen rejser sig op. I mellemtiden synger man fædrelandssange i Ålborg. Det tager om sig, og i Kongens Have samler man 130.000 mennesker til sangstævne. Tyskerne kan ikke gøre noget ved det, men det sender et signal til dem om, at danskerne ikke vil have, at de er her. D. 4 maj 1945 overgiver tyskerne sig. Folk brænder mørklægningsgardinerne, og der er fest i gaderne. Danmark er endelig fri."
+        "beskrivelse": "Kongens Have dannede ramme om en anden form for passiv modstand. Folk er på dette tidspunkt splittede, og en af datidens største popsangere giver en koncert i Odd Fellow palæet. Her bliver der blandt andet sunget om ranker, som betyder, at man laver planer mod nogen. Han begynder at græde, og hele salen rejser sig op. I mellemtiden synger man fædrelandssange i Ålborg. Det tager om sig, og i Kongens Have samler man 130.000 mennesker til sangstævne. Tyskerne kan ikke gøre noget ved det, men det sender et signal til dem om, at danskerne ikke vil have, at de er her. D. 4 maj 1945 overgiver tyskerne sig. Folk brænder mørklægningsgardinerne, og der er fest i gaderne. Danmark er endelig fri.",
+        "markerClass": "kongenshave"
 	},
 
     {
