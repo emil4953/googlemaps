@@ -1,4 +1,5 @@
 [{
+        "type": "info",
         "navn": "Gefionspringvandet",
         "position": {
             "lat": 55.689443,
@@ -10,6 +11,7 @@
 
 
     {
+        "type": "info",
         "navn": "Kastellet",
         "position": {
             "lat": 55.691586,
@@ -21,6 +23,7 @@
 
 
     {
+        "type": "info",
         "navn": "Churchill Parken",
         "position": {
             "lat": 55.688348,
@@ -32,6 +35,7 @@
 
 
     {
+        "type": "info",
         "navn": "Major Anders Lassen",
         "position": {
             "lat": 55.688309,
@@ -42,6 +46,7 @@
 	},
 
     {
+        "type": "info",
         "navn": "Jagerpilot Kaj Birksted",
         "position": {
             "lat": 55.688361,
@@ -54,6 +59,7 @@
 
 
     {
+        "type": "info",
         "navn": "Holmen",
         "position": {
             "lat": 55.688308,
@@ -65,6 +71,7 @@
 
 
     {
+        "type": "info",
         "navn": "Amaliehaven",
         "position": {
             "lat": 55.683822,
@@ -76,6 +83,7 @@
 
 
     {
+        "type": "info",
         "navn": "Amalienborg",
         "position": {
             "lat": 55.684228,
@@ -86,6 +94,7 @@
 	},
 
     {
+        "type": "info",
         "navn": "Kong Christian d. 10",
         "position": {
             "lat": 55.682293,
@@ -97,6 +106,7 @@
 
 
     {
+        "type": "info",
         "navn": "Mindeankeret",
         "position": {
             "lat": 55.680649,
@@ -108,6 +118,7 @@
 
 
     {
+        "type": "info",
         "navn": "Kongens Nytorv",
         "position": {
             "lat": 55.681098,
@@ -119,6 +130,7 @@
 
 
     {
+        "type": "info",
         "navn": "Kongens Have",
         "position": {
             "lat": 55.683687,
@@ -129,7 +141,8 @@
 	},
 
     {
-        "spoergsmål": "Hvilken dato og år blev Danmark befriet?",
+        "type": "quiz",
+        "spoergsmaal": "Hvilken dato og år blev Danmark befriet?",
         "svar": "4 maj 1945",
         "position": {
             "lat": 55.689562,
@@ -138,7 +151,8 @@
     },
 
     {
-        "spoergsmål": "Hvilken stilling havde Winston Churchill under 2. Verdenskrig?",
+        "type": "quiz",
+        "spoergsmaal": "Hvilken stilling havde Winston Churchill under 2. Verdenskrig?",
         "svar": "Han var premiere minister I England",
         "position": {
             "lat": 55.688562,
@@ -147,16 +161,18 @@
     },
 
     {
-        "spoergsmål": "I hvilket land døde Major Anders Lassen?",
+        "type": "quiz",
+        "spoergsmaal": "I hvilket land døde Major Anders Lassen?",
         "svar": "Italien",
         "position": {
             "lat": 55.688109,
-            "lng": 12.596896
+            "lng": 12.596895
         }
     },
 
     {
-        "spoergsmål": "Kaj Birksted følte ikke han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land, hvilket?",
+        "type": "quiz",
+        "spoergsmaal": "Kaj Birksted følte ikke han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land, hvilket?",
         "svar": "England",
         "position": {
             "lat": 55.688109,
@@ -165,7 +181,8 @@
     },
 
     {
-        "spoergsmål": "Danmark har lagt bombeladninger på alle deres skibe, så den dag når Tyskland vil have dem kan man sænke dem. Der er blevet bestemt et kodeord for når man skal bombe skibene, hvad er kodeordet?",
+        "type": "quiz",
+        "spoergsmaal": "Danmark har lagt bombeladninger på alle deres skibe, så den dag når Tyskland vil have dem kan man sænke dem. Der er blevet bestemt et kodeord for når man skal bombe skibene, hvad er kodeordet?",
         "svar": "Gnu",
         "position": {
             "lat": 55.687568,
@@ -174,7 +191,8 @@
     },
 
     {
-        "spoergsmål": "Hvilken dato bliver man beordrede til at have mørklægningsgardiner?",
+        "type": "quiz",
+        "spoergsmaal": "Hvilken dato bliver man beordrede til at have mørklægningsgardiner?",
         "svar": "9 april",
         "position": {
             "lat": 55.683733,
@@ -183,7 +201,8 @@
     },
 
     {
-        "spoergsmål": "Tyskerne vil begynde at arrestere det danske politi, hvilket år begynder de?",
+        "type": "quiz",
+        "spoergsmaal": "Tyskerne vil begynde at arrestere det danske politi, hvilket år begynder de?",
         "svar": "1944",
         "position": {
             "lat": 55.684627,
@@ -192,7 +211,8 @@
     },
 
     {
-        "spoergsmål": "Kong Christian d. 10 fik et langt brev fra en hel bestem person da han havde fødselsdag, hvem var dette?",
+        "type": "quiz",
+        "spoergsmaal": "Kong Christian d. 10 fik et langt brev fra en hel bestem person da han havde fødselsdag, hvem var dette?",
         "svar": "Hitler",
         "position": {
             "lat": 55.681696,
@@ -201,7 +221,8 @@
     },
 
     {
-        "spoergsmål": "Hvor mange sømænd siger man der omkom under 2. verdenskrig på havet?",
+        "type": "quiz",
+        "spoergsmaal": "Hvor mange sømænd siger man der omkom under 2. verdenskrig på havet?",
         "svar": "1600",
         "position": {
             "lat": 55.681098,
@@ -210,7 +231,8 @@
     },
 
     {
-        "spoergsmål": "Kongens Nytorv, danner ramme om de tre sider der var i krigen. Modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark væger de bedste hoteller. Hvilket hotel er hovedkvarter?",
+        "type": "quiz",
+        "spoergsmaal": "Kongens Nytorv, danner ramme om de tre sider der var i krigen. Modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark væger de bedste hoteller. Hvilket hotel er hovedkvarter?",
         "svar": "D’angleterre",
         "position": {
             "lat": 55.681755,
@@ -219,7 +241,8 @@
     },
 
     {
-        "spoergsmål": "Der bliver holdt et stort arrangement i Kongens have, hvad bliver der lavet?",
+        "type": "quiz",
+        "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens have, hvad bliver der lavet?",
         "svar": "Der bliver holdt et stort sangstævne",
         "position": {
             "lat": 55.683436,
