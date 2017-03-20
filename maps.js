@@ -14,7 +14,7 @@
              lat: 55.687124,
              lng: 12.594929
          },
-         zoom: 15
+         zoom: 18
      });
 
      locationMarker = new google.maps.Marker({
@@ -23,7 +23,7 @@
              lng: 12.594929
          },
          map: map,
-         animation: google.maps.Animation.BOUNCE
+         animation: google.maps.Animation.DROP
              // TODO: Sæt et særligt ikon for denne marker
      });
 
@@ -66,26 +66,30 @@
 
      data.forEach(function (punkt) {
          console.log("hej med dig");
-         var marker = punkt.marker;
 
-         var dist = google.maps.geometry.spherical.computeDistanceBetween(marker.position, currentPosition);
+         if (punkt.type == "quiz") {
 
-         //      var markerElement = document.querySelector(selector);
+             var marker = punkt.marker;
 
-         if (dist < 160) {
-             console.log("Tæt på (" + dist + "m) " + punkt.navn);
+             var dist = google.maps.geometry.spherical.computeDistanceBetween(marker.position, currentPosition);
 
-             //        if (markerElement != null) {
-             marker.setVisible(true);
-             marker.setClickable(true);
-             //      } else {
-             //         if (markerElement != null) {
-             //             marker.setVisible(false);
-             //             marker.setClickable(false);
-             //         }
-         } else {
-             marker.setVisible(false);
-             marker.setClickable(false);
+             //      var markerElement = document.querySelector(selector);
+
+             if (dist < 70) {
+                 console.log("Tæt på (" + dist + "m) " + punkt.navn);
+
+                 //        if (markerElement != null) {
+                 marker.setVisible(true);
+                 marker.setClickable(true);
+                 //      } else {
+                 //         if (markerElement != null) {
+                 //             marker.setVisible(false);
+                 //             marker.setClickable(false);
+                 //         }
+             } else {
+                 marker.setVisible(false);
+                 marker.setClickable(false);
+             }
          }
 
      });
