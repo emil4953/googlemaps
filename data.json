@@ -143,7 +143,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvilken dato og årstal blev Danmark befriet?",
+        "svar": "4. maj 1945",
         "svar": "5. maj 1945",
+        "svar": "6. maj 1945",
         "position": {
             "lat": 55.689562,
             "lng": 12.597993
@@ -154,6 +156,8 @@
         "type": "quiz",
         "spoergsmaal": "Hvilken stilling havde Winston Churchill under 2. Verdenskrig?",
         "svar": "Han var premierminister i England",
+        "svar": "Han var kaptajn for den engelske flåde",
+        "svar": "Han var udenrigsminister i England",
         "position": {
             "lat": 55.688562,
             "lng": 12.596710
@@ -163,7 +167,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvilken mand sluttede sine sidste dage i Italien?",
-        "svar": "England",
+        "svar": "Anders Lassen",
+        "svar": "Kaj Lassen",
+        "svar": "Kaj Birksted",
         "position": {
             "lat": 55.688109,
             "lng": 12.596896
@@ -174,6 +180,8 @@
         "type": "quiz",
         "spoergsmaal": "Danmark lagde bombeladninger på alle deres skibe så de kunne sænkes den dag Tyskland ville have dem. Der blev bestemt et kodeord. Hvad var dette?",
         "svar": "Gnu",
+        "svar": "Okse",
+        "svar": "Hjort",
         "position": {
             "lat": 55.687568,
             "lng": 12.598906
@@ -184,6 +192,8 @@
         "type": "quiz",
         "spoergsmaal": "Hvilken dato blev danskerne beordret til at have mørklægningsgardiner?",
         "svar": "9. april 1940",
+        "svar": "20. april 1940",
+        "svar": "11. maj 1940",
         "position": {
             "lat": 55.683733,
             "lng": 12.594185
@@ -193,7 +203,10 @@
     {
         "type": "quiz",
         "spoergsmaal": "Tyskerne arresterede og deporterede danske politifolk. Hvilket år begyndte deportationerne?",
+        "svar": "5. maj 1945",
+        "svar": "1943",
         "svar": "1944",
+        "svar": "1945",
         "position": {
             "lat": 55.684627,
             "lng": 12.591023
@@ -202,9 +215,10 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Kong Christian d. 10. fik et langt brev fra en meget væsentlig person på hans fødselsdag. Hvem var brevet fra?
-        ",
+        "spoergsmaal": "Kong Christian d. 10. fik et langt brev fra en meget væsentlig person på hans fødselsdag. Hvem var brevet fra?",
+        "svar": "Albert Einstein",
         "svar": "Adolf Hitler",
+        "svar": "Winston Churchill",
         "position": {
             "lat": 55.681696,
             "lng": 12.588052
@@ -214,7 +228,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvor mange sømænd siges der cirka omkommet under 2. verdenskrig på havet?",
+        "svar": "1000",
         "svar": "1600",
+        "svar": "2500",
         "position": {
             "lat": 55.681098,
             "lng": 12.586149
@@ -224,7 +240,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "a tyskerne besætter Danmark vælger de de bedste hoteller. Hvilket hotel var hovedkvarter?",
+        "svar": "Hotel Admiral",
         "svar": "Hotel D’angleterre",
+        "svar": "Hotel Kong Arthur",
         "position": {
             "lat": 55.681755,
             "lng": 12.584278
@@ -233,8 +251,10 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens have under besættelsen. Hvad bliver der lavet?",
-        "svar": "Der bliver holdt et stort sangstævne",
+        "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens Have under besættelsen. Hvad bliver der lavet?",
+        "svar": "Der bliver afholdt en stor demonstration",
+        "svar": "Der bliver afholdt en digteropvisning",
+        "svar": "Der bliver afholdt alsang",
         "position": {
             "lat": 55.683436,
             "lng": 12.580453

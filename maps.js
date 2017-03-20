@@ -19,8 +19,8 @@
 
      locationMarker = new google.maps.Marker({
          position: {
-             lat: 55.687124,
-             lng: 12.594929
+             lat: 55.689063,
+             lng: 12.597257
          },
          map: map,
          animation: google.maps.Animation.DROP
@@ -73,8 +73,6 @@
 
              var dist = google.maps.geometry.spherical.computeDistanceBetween(marker.position, currentPosition);
 
-             //      var markerElement = document.querySelector(selector);
-
              if (dist < 70) {
                  console.log("Tæt på (" + dist + "m) " + punkt.navn);
 
@@ -93,11 +91,6 @@
          }
 
      });
-
-     //     //     if (target.latitude === crd.latitude && target.longitude === crd.longitude) {
-     //         console.log('Congratulations, you reached the target');
-     //         navigator.geolocation.clearWatch(id);
-     //     }
  }
 
  function error(err) {
@@ -136,12 +129,6 @@
      // - lav en event på markeren
      marker.addListener('click', function () {
 
-         // - når man klikke på en marker:
-         // - - klon template
-         // - - sæt data fra JSON ind i klonen
-         // - - sæt klonen ind i infowindow
-         // - - og vis infowindow
-
          map.setZoom(16);
          map.setCenter(marker.getPosition());
 
@@ -168,13 +155,6 @@
          infowindow.open(map, marker);
      });
  }
-
- /*
-      function visMarker() {
-          console.log(visMarker);
-          marker.setMarker
-      }
- */
 
  /*
  var icon = {
