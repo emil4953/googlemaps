@@ -142,8 +142,8 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Hvilken dato og år blev Danmark befriet?",
-        "svar": "4 maj 1945",
+        "spoergsmaal": "Hvilken dato og årstal blev Danmark befriet?",
+        "svar": "5. maj 1945",
         "position": {
             "lat": 55.689562,
             "lng": 12.597993
@@ -153,7 +153,7 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvilken stilling havde Winston Churchill under 2. Verdenskrig?",
-        "svar": "Han var premiere minister I England",
+        "svar": "Han var premierminister i England",
         "position": {
             "lat": 55.688562,
             "lng": 12.596710
@@ -172,7 +172,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Kaj Birksted følte ikke han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land, hvilket?",
+        "spoergsmaal": "Kaj Birksted følte ikke, at han blev værdsat efter hans indflydelse under 2 verdenskrig, derfor flyttede han til et andet land. Hvilket land var det?",
         "svar": "England",
         "position": {
             "lat": 55.688109,
@@ -182,7 +182,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Danmark har lagt bombeladninger på alle deres skibe, så den dag når Tyskland vil have dem kan man sænke dem. Der er blevet bestemt et kodeord for når man skal bombe skibene, hvad er kodeordet?",
+        "spoergsmaal": "Danmark lagde bombeladninger på alle deres skibe så de kunne sænkes den dag Tyskland ville have dem. Der blev bestemt et kodeord. Hvad var dette?",
         "svar": "Gnu",
         "position": {
             "lat": 55.687568,
@@ -192,8 +192,8 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Hvilken dato bliver man beordrede til at have mørklægningsgardiner?",
-        "svar": "9 april",
+        "spoergsmaal": "Hvilken dato blev danskerne beordret til at have mørklægningsgardiner?",
+        "svar": "9. april 1940",
         "position": {
             "lat": 55.683733,
             "lng": 12.594185
@@ -202,7 +202,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Tyskerne vil begynde at arrestere det danske politi, hvilket år begynder de?",
+        "spoergsmaal": "Tyskerne arresterede og deporterede danske politifolk. Hvilket år begyndte deportationerne?",
         "svar": "1944",
         "position": {
             "lat": 55.684627,
@@ -212,8 +212,9 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Kong Christian d. 10 fik et langt brev fra en hel bestem person da han havde fødselsdag, hvem var dette?",
-        "svar": "Hitler",
+        "spoergsmaal": "Kong Christian d. 10. fik et langt brev fra en meget væsentlig person på hans fødselsdag. Hvem var brevet fra?
+        ",
+        "svar": "Adolf Hitler",
         "position": {
             "lat": 55.681696,
             "lng": 12.588052
@@ -222,7 +223,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Hvor mange sømænd siger man der omkom under 2. verdenskrig på havet?",
+        "spoergsmaal": "Hvor mange sømænd siges der cirka omkommet under 2. verdenskrig på havet?",
         "svar": "1600",
         "position": {
             "lat": 55.681098,
@@ -232,8 +233,8 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Kongens Nytorv, danner ramme om de tre sider der var i krigen. Modstandsbevægelsen, de danske nazister og tyskerne. Da tyskerne angriber Danmark væger de bedste hoteller. Hvilket hotel er hovedkvarter?",
-        "svar": "D’angleterre",
+        "spoergsmaal": "a tyskerne besætter Danmark vælger de de bedste hoteller. Hvilket hotel var hovedkvarter?",
+        "svar": "Hotel D’angleterre",
         "position": {
             "lat": 55.681755,
             "lng": 12.584278
@@ -242,7 +243,7 @@
 
     {
         "type": "quiz",
-        "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens have, hvad bliver der lavet?",
+        "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens have under besættelsen. Hvad bliver der lavet?",
         "svar": "Der bliver holdt et stort sangstævne",
         "position": {
             "lat": 55.683436,
