@@ -156,8 +156,7 @@
          doSetCenter = false;
 
          google.maps.event.addListener(infowindow, 'closeclick', function () {
-             google.maps.event.trigger(map, 'closeclick');
-             map.setCenter(currentPosition);
+             console.log("bfkrbgb")
          });
      });
  }
