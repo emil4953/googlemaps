@@ -16,10 +16,49 @@
              lat: 55.689059100040296,
              lng: 12.597261619567917
          },
+
          zoom: 18,
          scrollwheel: false,
          scaleControl: false
+
      });
+
+     var bounds = {
+         north: 55.69526873596324,
+         south: 55.680221625302735,
+         east: 12.606046617962647,
+         west: 12.573817194439698
+     }
+
+
+     var overlay = new google.maps.GroundOverlay('overlay-01.svg', bounds);
+     overlay.setMap(map);
+
+
+     var overlay = new google.maps.GroundOverlay('birk-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('church-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('water-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('waterfall-01.svg',
+         bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('stjerne-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('borg1-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('10-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('mindeanker-01.svg', bounds);
+     overlay.setMap(map);
 
      locationMarker = new google.maps.Marker({
          position: {
@@ -31,7 +70,6 @@
          icon: "testmarker.svg"
              // TODO: Sæt et særligt ikon for denne marker
      });
-
 
      $.getJSON("data.json", dataErHentet);
      console.log("henter data ...");
@@ -109,10 +147,23 @@
      console.log(punkt);
      // for hver punkt i JSON-filen
      // - lav en marker
+
+     var etoverlay = new google.maps.OverlayView();
+     etoverlay.draw = function () {
+         this.getPanes().markerLayer.id = 'markerLayer';
+     };
+     etoverlay.setMap(map);
+
+
+
      var marker = new google.maps.Marker({
          position: punkt.position,
          map: map,
+         optimized: false,
+         draggable: true,
+         animation: google.maps.Animation.DROP,
          title: punkt.navn
+
      });
 
      punkt.marker = marker;
@@ -159,4 +210,22 @@
              console.log("bfkrbgb")
          });
      });
+ }
+
+ function findAlleMarkers() {
+     var markerArray = document.querySelector("#markerLayer img");
+     console.log("Alle markers: ", markerArray);
+
+     if (markerArray.length == 0) {
+         setTimeout(findAlleMarkers, 50);
+     } else {
+         markerArray.forEach(function (domElement, index) {
+                 domElement.classList.add("marker");
+                 domElement.classList.add(data[index].markerClass);
+             }
+
+
+
+         )
+     }
  }
