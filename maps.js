@@ -4,6 +4,8 @@
 
  var locationMarker;
 
+ var doSetCenter = true;
+
  function initMap() {
 
      console.log("Init map")
@@ -11,8 +13,8 @@
      // lav et kort
      map = new google.maps.Map(document.getElementById('map'), {
          center: {
-             lat: 55.687124,
-             lng: 12.594929
+             lat: 55.689059100040296,
+             lng: 12.597261619567917
          },
          zoom: 18,
          scrollwheel: false,
@@ -26,7 +28,7 @@
          },
          map: map,
          animation: google.maps.Animation.DROP,
-         icon: "rigtigemarker-01.png"
+         icon: "testmarker.svg"
              // TODO: Sæt et særligt ikon for denne marker
      });
 
@@ -57,7 +59,10 @@
 
      console.log("Currentposition: " + currentPosition);
 
-     map.setCenter(currentPosition);
+     if (doSetCenter == true) {
+         map.setCenter(currentPosition);
+     }
+
 
      locationMarker.setPosition(currentPosition);
 
@@ -136,9 +141,9 @@
              var klon = document.querySelector("#infowindow_quiztemplate").content.cloneNode(true);
 
              klon.querySelector("h3").textContent = punkt.spoergsmaal;
-             klon.querySelector("p").textContent = punkt.svar1;
-             klon.querySelector("p").textContent = punkt.svar2;
-             klon.querySelector("p").textContent = punkt.svar3;
+             klon.querySelector(".data_svar1").textContent = punkt.svar1;
+             klon.querySelector(".data_svar2").textContent = punkt.svar2;
+             klon.querySelector(".data_svar3").textContent = punkt.svar3;
 
          }
 
@@ -147,5 +152,12 @@
          infowindow.setContent(klon);
 
          infowindow.open(map, marker);
+
+         doSetCenter = false;
+
+         google.maps.event.addListener(infowindow, 'closeclick', function () {
+             google.maps.event.trigger(map, 'closeclick');
+             map.setCenter(currentPosition);
+         });
      });
  }

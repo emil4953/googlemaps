@@ -1,8 +1,11 @@
 .data_billede {
     width: 70% !important;
 }
+.gm-style-iw {
+    width: 350px !important;
+    top: 0 !important;
+}
 #infowindow_template {
-    position: fixed;
     width: auto;
     background-image: 'baggrund.png';
 }
