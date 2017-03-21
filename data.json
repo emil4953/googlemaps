@@ -190,9 +190,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Danmark lagde bombeladninger på alle deres skibe så de kunne sænkes den dag Tyskland ville have dem. Der blev bestemt et kodeord. Hvad var dette?",
-        "svar": "Gnu",
-        "svar": "Okse",
-        "svar": "Hjort",
+        "svar1": "Gnu",
+        "svar2": "Okse",
+        "svar3": "Hjort",
         "position": {
             "lat": 55.687568,
             "lng": 12.598906
@@ -202,9 +202,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvilken dato blev danskerne beordret til at have mørklægningsgardiner?",
-        "svar": "9. april 1940",
-        "svar": "20. april 1940",
-        "svar": "11. maj 1940",
+        "svar1": "9. april 1940",
+        "svar2": "20. april 1940",
+        "svar3": "11. maj 1940",
         "position": {
             "lat": 55.683733,
             "lng": 12.594185
@@ -214,10 +214,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Tyskerne arresterede og deporterede danske politifolk. Hvilket år begyndte deportationerne?",
-        "svar": "5. maj 1945",
-        "svar": "1943",
-        "svar": "1944",
-        "svar": "1945",
+        "svar1": "1944",
+        "svar2": "1945",
+        "svar3": "1946",
         "position": {
             "lat": 55.684627,
             "lng": 12.591023
@@ -227,9 +226,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Kong Christian d. 10. fik et langt brev fra en meget væsentlig person på hans fødselsdag. Hvem var brevet fra?",
-        "svar": "Albert Einstein",
-        "svar": "Adolf Hitler",
-        "svar": "Winston Churchill",
+        "svar1": "Adolf Hitler",
+        "svar2": "Albert Einstein",
+        "svar3": "Winston Churchill",
         "position": {
             "lat": 55.681696,
             "lng": 12.588052
@@ -239,9 +238,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Hvor mange sømænd siges der cirka omkommet under 2. verdenskrig på havet?",
-        "svar": "1000",
-        "svar": "1600",
-        "svar": "2500",
+        "svar1": "1600",
+        "svar2": "2400",
+        "svar3": "2900",
         "position": {
             "lat": 55.681098,
             "lng": 12.586149
@@ -251,9 +250,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "a tyskerne besætter Danmark vælger de de bedste hoteller. Hvilket hotel var hovedkvarter?",
-        "svar": "Hotel Admiral",
-        "svar": "Hotel D’angleterre",
-        "svar": "Hotel Kong Arthur",
+        "svar1": "Hotel D’angleterre",
+        "svar2": "Hotel Admiral",
+        "svar3": "Hotel Kong Arthur",
         "position": {
             "lat": 55.681755,
             "lng": 12.584278
@@ -263,9 +262,9 @@
     {
         "type": "quiz",
         "spoergsmaal": "Der bliver holdt et stort arrangement i Kongens Have under besættelsen. Hvad bliver der lavet?",
-        "svar": "Der bliver afholdt en stor demonstration",
-        "svar": "Der bliver afholdt en digteropvisning",
-        "svar": "Der bliver afholdt alsang",
+        "svar1": "Der bliver afholdt alsang",
+        "svar2": "Der bliver afholdt en stor demonstration",
+        "svar3": "Der bliver afholdt en digteropvisning",
         "position": {
             "lat": 55.683436,
             "lng": 12.580453
