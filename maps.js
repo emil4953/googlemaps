@@ -207,7 +207,8 @@
          doSetCenter = false;
 
          google.maps.event.addListener(infowindow, 'closeclick', function () {
-             console.log("bfkrbgb")
+             console.log("bfkrbgb");
+             doSetCenter = true;
          });
      });
  }
