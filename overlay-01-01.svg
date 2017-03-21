@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="751.3" height="622" viewBox="0 0 751.3 622">
+  <title>overlay-01</title>
+  <g id="Lag_1" data-name="Lag 1">
+    <image width="1366" height="768" transform="translate(-20.03 -86)" xlink:href="overlay-011.png"/>
+  </g>
+  <g id="Lag_2" data-name="Lag 2">
+    <g id="Lag_2-2" data-name="Lag 2">
+      <rect x="616.54" y="410.93" width="23.92" height="72.87" fill="#726565" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <rect x="620.81" y="418.76" width="15.95" height="13.91" fill="#352d2d" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <path d="M619.57,410.93l-3-9.9a6.9,6.9,0,0,1,5.22-2.75s2.06-2.47,3.3-2.47c0,0-1.51.82,0,2.75.85,1.1,1.79,2.14,2.75,3.16a18.38,18.38,0,0,0,4.12-2.61c1-1.1.82-2.75,0-3.3s2.75,1.65,2.75,1.65,3.44-.14,4.26.55,3.3,1.7.55,5.31l-1.65,7.62" fill="#005b1d" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+    </g>
+    <g id="Lag_4" data-name="Lag 4">
+      <line x1="623.42" y1="420.55" x2="634.31" y2="420.55" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <line x1="624.19" y1="422.61" x2="633.24" y2="422.61" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <line x1="625.84" y1="425.72" x2="631.72" y2="425.72" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <line x1="625.84" y1="423.99" x2="631.23" y2="423.99" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+    </g>
+    <g id="Lag_3" data-name="Lag 3">
+      <path d="M633.1,386.07s.55-3-.77-3.74-5.83,1.1-5.83,1.1-3.08,1.87-3,3.41a19.47,19.47,0,0,0-1.21,4.1c-.33,2.06,2.09,1.18,2.09,1.18" fill="#005b1d" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <path d="M634.69,397.45l.6,2.91-2.09-1v1s-4.34,3.85-4.7,4.73-.36,5.83-.36,5.83" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <polyline points="621.77 398.28 622.29 401.03 624.19 399.65 628.51 405.1" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <path d="M619.79,405.76l6-1.1v3.08s-2.75.22-3,.66-1.32-.22-2,0S619.79,405.76,619.79,405.76Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <path d="M631.23,405.1v2.09s2.23-.22,2.53.33,2.36.11,3,.44.63-2.86.63-2.86Z" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <path d="M623.8,397.43l3.85,4.26,4.37-2.61s2.34-2.34,0-3.3a6.75,6.75,0,0,0,1.35-1.92c.47-1.1.47-4,.58-4.84a9.77,9.77,0,0,0-.69-3h-1.9c-1.4,0-3.49,1.54-4.78,2.31a5.27,5.27,0,0,0-1.65,1.32,1.62,1.62,0,0,0-.91,2.42c1.51.88.69,3.68.69,3.68" fill="#001532" stroke="#000" stroke-miterlimit="10" stroke-width="0.25"/>
+      <rect x="627.05" y="399.69" width="5.28" height="1.04" transform="translate(-116.02 424.7) rotate(-34.32)" fill="#001532"/>
+    </g>
+  </g>
+</svg>

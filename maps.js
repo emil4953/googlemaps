@@ -19,19 +19,41 @@
      });
 
      var bounds = {
-         north: 55.694646951193086,
-         south: 55.686543390547726,
-         east: 12.623017092803934,
-         west: 12.566840907196024
+         north: 55.69526873596324,
+         south: 55.680221625302735,
+         east: 12.606046617962647,
+         west: 12.573817194439698
      }
 
 
-     var overlay = new google.maps.GroundOverlay('anderslassen-01.svg', bounds);
+     var overlay = new google.maps.GroundOverlay('overlay-01.svg', bounds);
      overlay.setMap(map);
 
 
+     var overlay = new google.maps.GroundOverlay('birk-01.svg', bounds);
+     overlay.setMap(map);
 
+     var overlay = new google.maps.GroundOverlay('church-01.svg', bounds);
+     overlay.setMap(map);
 
+     var overlay = new google.maps.GroundOverlay('water-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('waterfall-01.svg',
+         bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('stjerne-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('borg1-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('10-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('mindeanker-01.svg', bounds);
+     overlay.setMap(map);
 
      locationMarker = new google.maps.Marker({
          position: {

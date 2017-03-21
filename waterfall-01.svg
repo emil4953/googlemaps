@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="751.3" height="622" viewBox="0 0 751.3 622">
+  <title>waterfall</title>
+  <g id="Lag_1" data-name="Lag 1">
+    <image width="1366" height="768" transform="translate(-20.03 -86)" xlink:href="waterfall1.png"/>
+  </g>
+  <g id="Lag_7" data-name="Lag 7">
+    <g>
+      <g id="Layer_10" data-name="Layer 10">
+        <path d="M551.64,255.65s-3.06,4.13,9,3.84c0,0,13,.55,9.45-3.55Z" fill="#5283c0" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2">
+        <path d="M552.33,254.67s-1,1-.81,1.7h18.59s.15-1.39-.91-1.7Z" fill="#d2c4c4" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <path d="M553.1,253.06s-.87.91-.74,1.6h16.85s.13-1.31-.82-1.6Z" fill="#d2c4c4" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <polyline points="568.41 253.03 568.41 251.01 553.12 250.99 553.12 253.06" fill="#cbc1c1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+      </g>
+      <g id="Layer_3" data-name="Layer 3">
+        <ellipse cx="562.92" cy="256.21" rx="0.43" ry="0.6" transform="translate(-50.83 179.85) rotate(-17.38)" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="558.68" cy="256.62" rx="0.43" ry="0.6" transform="matrix(0.95, -0.3, 0.3, 0.95, -51.15, 178.6)" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="563.73" cy="257.67" rx="0.6" ry="0.43" transform="translate(174.88 740.36) rotate(-75.71)" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="567.96" cy="257.03" rx="0.43" ry="0.6" transform="translate(-50.85 181.39) rotate(-17.38)" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="556.58" cy="257.2" rx="0.43" ry="0.6" transform="translate(-51.42 178) rotate(-17.38)" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="553.66" cy="256.49" r="0.54" fill="#686868" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="563.79" cy="256.76" r="0.54" fill="#686868" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="568.74" cy="256.37" rx="0.55" ry="0.95" transform="translate(232.68 781.96) rotate(-81.67)" fill="#757575" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="555.55" cy="257.81" rx="0.55" ry="0.95" transform="translate(219.98 770.15) rotate(-81.67)" fill="#757575" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="566.82" cy="257.67" rx="0.55" ry="0.95" transform="translate(114.75 685.82) rotate(-67.89)" fill="#757575" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="562.89" cy="256.87" rx="0.44" ry="0.66" transform="translate(227.19 776.6) rotate(-81.67)" fill="#757575" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="552.62" cy="257.53" rx="0.44" ry="0.66" transform="translate(217.75 767.02) rotate(-81.67)" fill="#757575" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="561.71" cy="256.65" r="0.67" transform="translate(240.17 783.91) rotate(-83.18)" fill="#727272" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="564.83" cy="257.66" r="0.67" transform="translate(241.92 787.9) rotate(-83.18)" fill="#727272" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="565.91" cy="256.87" r="0.67" transform="translate(243.65 788.27) rotate(-83.18)" fill="#727272" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="564.63" cy="256.62" rx="0.69" ry="0.93" transform="translate(-54.46 219.28) rotate(-20.99)" fill="#888" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="555.55" cy="256.62" rx="1.13" ry="0.8" transform="translate(-18.74 468) rotate(-45)" fill="#686868" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="557.55" cy="256.49" r="0.83" fill="#595959" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="560.37" cy="256.49" r="0.92" fill="#5b5b5b" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="552.36" cy="256.49" rx="0.67" ry="0.92" transform="matrix(0.62, -0.78, 0.78, 0.62, 8.59, 530.71)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="562.55" cy="257.81" rx="0.67" ry="0.92" transform="matrix(0.62, -0.78, 0.78, 0.62, 11.42, 539.21)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="553.92" cy="257.2" rx="0.92" ry="0.67" transform="translate(-19.62 467.01) rotate(-45)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="569.74" cy="257.03" rx="0.92" ry="0.67" transform="translate(-14.88 478.15) rotate(-45)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="568.53" cy="257.64" rx="0.7" ry="0.67" transform="translate(-15.66 477.47) rotate(-45)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="559.44" cy="257.2" rx="0.92" ry="0.67" transform="translate(-18.01 470.92) rotate(-45)" fill="#514f4f" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="566.96" cy="256.37" r="0.83" fill="#707070" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="560.88" cy="257.77" r="0.83" fill="#707070" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <circle cx="558.07" cy="257.67" r="0.83" fill="#707070" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <ellipse cx="560.78" cy="250.99" rx="7.66" ry="0.49" fill="#cbc1c1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+        <path d="M555.16,251a15.94,15.94,0,0,1,10.75,0" fill="#cbc1c1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.25"/>
+      </g>
+      <g id="Layer_4" data-name="Layer 4">
+        <path d="M557.48,247.22s-1.17-.58-1.5,2c0,0-.69.32,0,1s.93.17.93.17a.69.69,0,0,0,0-.89c-.37-.41.67-.5.67-.5a2.93,2.93,0,0,0-.24,1.58s-.39.7,0,.73.2-.72.2-.72.28-1.54.6-1.63a2.65,2.65,0,0,0,.43.58.58.58,0,0,0,.34.18c.37,0-.26.39-.26.39s-.26.24-.07.32a.25.25,0,0,0,.3,0s0-.1,0-.15.57-.29.57-.29,1.48-.86-.13-1.95S557.48,247.22,557.48,247.22Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M558.29,250.09s-.18.32.15.27a.32.32,0,0,0,.28-.36v0l.17-.29-.22-.15s-.16.52-.27.54Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M555.76,250.94s-.31.19-.08.36.31-.36.31-.36l.28-.49-.18-.13Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <polyline points="557.63 249 557.54 249.21 557.05 249.62 556.88 249.36 557.05 249.14" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M555.88,249.4s-.52.07-.7-.06,0,.12,0,.12.15.34.73.31" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M556.79,249.62a.82.82,0,0,0,.38.53c.29.12-.28.1-.28.1s-.28,0-.37-.48" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+      <g id="Layer_5" data-name="Layer 5">
+        <path d="M560.69,248.6s-2.21-3.1-3-2.54-.1,2-.1,2,.71,1.5,1.68,1.87a1.25,1.25,0,0,0,1.49-.47Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M557.74,248s-.58.21-.63.47c0,0-.25.46-.57.55s.35.41.35.41.31-.19.25-.44.47-.34.47-.34.33,0,.38-.2" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M559.23,248.46a1.62,1.62,0,0,1,.52.92c0,.47.38.33.38.33a.36.36,0,0,0,0-.5l0,0a1.89,1.89,0,0,1-.55-1" fill="none" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M558,247.6s.95,1,1.29.6-.37-1.29-.37-1.29" fill="none" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M558.57,246.73a.52.52,0,0,1,.66,0c.3.28-.09.12-.09.12a.52.52,0,0,0-.45.05" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M557.77,247.42a.56.56,0,0,0-.21.61c.1.42.18-.13.18-.13a.35.35,0,0,1,.19-.27" fill="none" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M557.57,247.77a.46.46,0,0,0,.05.36s.19,0,0-.39Z" fill="#e1e1e1"/>
+      </g>
+      <g id="Layer_6" data-name="Layer 6">
+        <path d="M561.89,247.16s-2.52.82-1.06,3.66c0,0-.26.87,1.07.8,0,0,1-.67.15-1.25s.71-.75.71-.75S563.91,246.72,561.89,247.16Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M562,249.65a3.53,3.53,0,0,1,.46,1.41s-.23.27.11.34.29-.32.18-.37a4.93,4.93,0,0,1-.27-1.54" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M560.48,249.62a5,5,0,0,1-.28,1.49.23.23,0,0,0-.18.36s.42.26.4-.19l.33-.81" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M561.83,250.58a.53.53,0,0,1,.64.13c.24.32-.14.06-.14.06a.47.47,0,0,0-.47,0" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M561.1,250.87a.55.55,0,0,0-.42.61c.07.52.21-.15.21-.15a.36.36,0,0,1,.32-.2" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+      <g id="Layer_7" data-name="Layer 7">
+        <path d="M563.73,247.39a1.3,1.3,0,0,0-1.27,1.21,2.13,2.13,0,0,0,1.18,1.8s.09,1,.78.79.5-1.1.5-1.1S565.33,247.09,563.73,247.39Z" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M563.27,250a1.53,1.53,0,0,1,.11.92.15.15,0,0,0,0,.27s.29.15.23-.2a2.33,2.33,0,0,1,.14-.9" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M564.67,250.09s.74-.22.92.35c0,0,.08.15-.19,0a1.43,1.43,0,0,0-.7-.1" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M563.92,250.25a.48.48,0,0,0-.47.5h0s0,.18.07,0,.2-.34.41-.32" fill="#e1e1e1" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+      <g id="Layer_9" data-name="Layer 9">
+        <path d="M561.38,244s-.76.33-.1.78c0,0,.46-.08.58-.29a8.15,8.15,0,0,0,1.32-.16s.63.19.52-.11-.53-.1-.53-.1A10.4,10.4,0,0,1,561.38,244Z" fill="#b6b6b6" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M561.38,244s-.37-.7.19-.86.5.36.5.36,1.11-.06,1,.29-1,.29-1,.29" fill="#c3c3c3" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+        <path d="M561.06,244.51s-.92.76-.54.85a.9.9,0,0,0,.57,0s.35-.31.36-.41a4.58,4.58,0,0,0-.47,2.78,1.78,1.78,0,0,1,1.57-.58,8.54,8.54,0,0,0-.15-2.75" fill="#c3c3c3" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+      <g id="Layer_8" data-name="Layer 8">
+        <path d="M560.09,247.81l.71-1-.13-1.06.13-.28.13.78h1.18l.34-.59.22,0-.56,1.51a3.08,3.08,0,0,0-.52.17c-.14.08.36-.82.36-.82l-1,0,.28,1-.27.21-.09-.58-.68.9Z" fill="#b4b4b4" stroke="#2a1000" stroke-miterlimit="10" stroke-width="0.1"/>
+      </g>
+    </g>
+  </g>
+</svg>
