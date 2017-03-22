@@ -7,7 +7,11 @@
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
 
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="icon" href="favicon.png" type="image/gif" sizes="16x16">
 
 
     <style>
@@ -21,6 +25,7 @@
             margin: 5px;
             padding: 5px;
         }
+
     </style>
 </head>
 
@@ -34,12 +39,40 @@
     </template>
 
     <template id="infowindow_quiztemplate">
-        <h2 class="data_spoergsmaal"></h2>
-        <h3 class="data_svar"></h3>
+        <h3 class="data_spoergsmaal"></h3>
+        <p class="data_svar1"></p>
+        <p class="data_svar2"></p>
+        <p class="data_svar3"></p>
+        <p class="resultat"></p>
     </template>
+
+    <template id="infowindow_svar_korrekt">
+        <h3 class="data_resultat">DIT RESULTAT</h3>
+        <h4 class="data_korrekt">TILLYKKE! <br>Dit svar er korrekt!</h4>
+
+    </template>
+
+    <template id="infowindow_svar_forkert">
+        <h3 class="data_resultat">DIT RESULTAT</h3>
+        <h4 class="data_forkert">DESVÆRRE! <br>Dit svar er forkert!</h4>
+    </template>
+
     <div id="map">
 
     </div>
+
+    <!-- navbar -->
+
+    <nav class="floating-menu">
+
+
+        <div class="row vertical-align-center">
+            <div class="col-xs-4"><img class="img-responsive" alt="hjem ikon" id="ico1" src="billeder/hjem.png"></div>
+            <div class="col-xs-4"><img class="img-responsive" alt="pris ikon" id="ico2" src="billeder/prisikon.png"></div>
+            <div class="col-xs-4"><img class="img-responsive" alt="kontakt ikon" id="ico3" src="billeder/kontakt.png"></div>
+        </div>
+
+    </nav>
 
     <!-- footer -->
 
