@@ -60,6 +60,17 @@
      var overlay = new google.maps.GroundOverlay('mindeanker-01.svg', bounds);
      overlay.setMap(map);
 
+
+     var overlay = new google.maps.GroundOverlay('torv-01.svg',
+         bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('haven-01.svg', bounds);
+     overlay.setMap(map);
+
+     var overlay = new google.maps.GroundOverlay('samletkort-01.svg', bounds);
+     overlay.setMap(map);
+
      locationMarker = new google.maps.Marker({
          position: {
              lat: 55.689063,
