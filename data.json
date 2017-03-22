@@ -157,6 +157,7 @@
         "svar1": "4. maj 1945",
         "svar2": "5. maj 1945",
         "svar3": "6. maj 1945",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.689562,
             "lng": 12.597993
@@ -169,6 +170,7 @@
         "svar1": "Han var premierminister i England",
         "svar2": "Han var kaptajn for den engelske flåde",
         "svar3": "Han var udenrigsminister i England",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.688562,
             "lng": 12.596710
@@ -181,6 +183,7 @@
         "svar1": "Anders Lassen",
         "svar2": "Kaj Lassen",
         "svar3": "Kaj Birksted",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.688109,
             "lng": 12.596896
@@ -193,6 +196,7 @@
         "svar1": "Gnu",
         "svar2": "Okse",
         "svar3": "Hjort",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.687568,
             "lng": 12.598906
@@ -205,6 +209,7 @@
         "svar1": "9. april 1940",
         "svar2": "20. april 1940",
         "svar3": "11. maj 1940",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.683733,
             "lng": 12.594185
@@ -217,6 +222,7 @@
         "svar1": "1944",
         "svar2": "1945",
         "svar3": "1946",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.684627,
             "lng": 12.591023
@@ -229,6 +235,7 @@
         "svar1": "Adolf Hitler",
         "svar2": "Albert Einstein",
         "svar3": "Winston Churchill",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.681696,
             "lng": 12.588052
@@ -241,6 +248,7 @@
         "svar1": "1600",
         "svar2": "2400",
         "svar3": "2900",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.681098,
             "lng": 12.586149
@@ -253,6 +261,7 @@
         "svar1": "Hotel D’angleterre",
         "svar2": "Hotel Admiral",
         "svar3": "Hotel Kong Arthur",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.681755,
             "lng": 12.584278
@@ -265,6 +274,7 @@
         "svar1": "Der bliver afholdt alsang",
         "svar2": "Der bliver afholdt en stor demonstration",
         "svar3": "Der bliver afholdt en digteropvisning",
+        "korrekt": "svar1",
         "position": {
             "lat": 55.683436,
             "lng": 12.580453

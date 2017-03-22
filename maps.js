@@ -73,7 +73,6 @@
 
      $.getJSON("data.json", dataErHentet);
      console.log("henter data ...");
-
  }
 
  function dataErHentet(jdata) {
@@ -101,7 +100,6 @@
          map.setCenter(currentPosition);
      }
 
-
      locationMarker.setPosition(currentPosition);
 
      data.forEach(function (punkt) {
@@ -124,7 +122,6 @@
                  marker.setClickable(false);
              }
          }
-
      });
  }
 
@@ -153,8 +150,6 @@
          this.getPanes().markerLayer.id = 'markerLayer';
      };
      etoverlay.setMap(map);
-
-
 
      var marker = new google.maps.Marker({
          position: punkt.position,
@@ -196,12 +191,27 @@
              klon.querySelector(".data_svar2").textContent = punkt.svar2;
              klon.querySelector(".data_svar3").textContent = punkt.svar3;
 
+             klon.querySelector(".data_svar1").addEventListener('click', function () {
+                 console.log("det virker! ej hvor godt!")
+
+                 if (punkt.korrekt == "svar1") {
+                     var klon2 = document.querySelector("#infowindow_svar_korrekt").content.cloneNode(true);
+                     infowindow.setContent(klon2);
+
+                     console.log("svar1 er rigtigt");
+
+                 } else {
+                     var klon2 = document.querySelector("#infowindow_svar_forkert").content.cloneNode(true);
+                     infowindow.setContent(klon2);
+
+                     klon.querySelector(".data_forkert");
+
+                     console.log("svar1 er forkert");
+                 }
+             });
          }
 
-         console.log(klon);
-
          infowindow.setContent(klon);
-
          infowindow.open(map, marker);
 
          doSetCenter = false;
@@ -210,7 +220,7 @@
              console.log("bfkrbgb");
              doSetCenter = true;
          });
-     });
+     })
  }
 
  function findAlleMarkers() {
@@ -221,12 +231,8 @@
          setTimeout(findAlleMarkers, 50);
      } else {
          markerArray.forEach(function (domElement, index) {
-                 domElement.classList.add("marker");
-                 domElement.classList.add(data[index].markerClass);
-             }
-
-
-
-         )
+             domElement.classList.add("marker");
+             domElement.classList.add(data[index].markerClass);
+         })
      }
- }
+ };
